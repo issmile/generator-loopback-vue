@@ -1,7 +1,7 @@
-# My Application loopback+vue
+# generator-loopback-vue 
 >当前build,CI状态:
-[![Build Status](https://travis-ci.org/qxl1231/app_update_server.svg?branch=master)](https://travis-ci.org/qxl1231/app_update_server)
-[![CircleCI](https://circleci.com/gh/qxl1231/app_update_server.svg?style=svg)](https://circleci.com/gh/qxl1231/app_update_server)
+[![Build Status](https://travis-ci.org/qxl1231/generator-loopback-vue.svg?branch=master)](https://travis-ci.org/qxl1231/generator-loopback-vue)
+[![CircleCI](https://circleci.com/gh/qxl1231/generator-loopback-vue.svg?style=svg)](https://circleci.com/gh/qxl1231/generator-loopback-vue)
 
 
 
